@@ -66,7 +66,7 @@ True: Pepper__bell___Bacterial_spot
 **Name:** Batuhan TUNALI  
 **Institution:** Berlin School of Business and Innovation (BSBI)  
 **Module:** Practical Skills Assessment (Deep Learning Project)  
-**Year:** October 2024  
+**Year:** October 2025  
 ---
 ## 📜 License
 This project is for **academic and research purposes only.**  
